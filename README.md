@@ -14,10 +14,11 @@ In this analysis, I will investigate the variables that can be used to make busi
 
 ### Data Preparation
 #### Data Overview
-2.2  Check Missing Values
-2.3  Handle Missing Values
-3  Exploratory Data Analysis
-3.1  Response Variable
+#### Check Missing Values
+#### Handle Missing Values
+
+### Exploratory Data Analysis
+#### Response Variable
 3.2  Dependent Variables
 3.2.1  Numeric Variable
 3.2.2  Categorical Variables
