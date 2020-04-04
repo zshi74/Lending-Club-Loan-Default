@@ -12,8 +12,8 @@ In this analysis, I will investigate the variables that can be used to make busi
 
 ## Table of Contents
 
-Data Preparation
-2.1  Data Overview
+### Data Preparation
+#### Data Overview
 2.2  Check Missing Values
 2.3  Handle Missing Values
 3  Exploratory Data Analysis
