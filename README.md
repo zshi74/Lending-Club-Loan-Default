@@ -22,23 +22,23 @@ In this analysis, I will investigate the variables that can be used to make busi
 * Dependent Variables
   * Numeric Variable
   * Categorical Variables
+  * Other Types
+### Feature Selection
+  * Correlation Plot
+  * Chi-square Test
+### Predictive Modeling
+* One-hot Encoding
+* Data Partition
+* Class Imbalanced
+* Model Construction
+  * Logistic Regression
+  * Naive Bayes
+  * Decision Tree
+  * Random Forest
+    * Hyperparameter Tuning
+    * Feature Importance
+* Model Comparison
 
-3.2.3  Other Types
-4  Feature Selection
-4.1  Correlation Plot
-4.2  Chi-square Test
-5  Predictive Modeling
-5.1  One-hot Encoding
-5.2  Data Partition
-5.3  Class Imbalanced
-5.4  Model Construction
-5.4.1  Logistic Regression
-5.4.2  Naive Bayes
-5.4.3  Decision Tree
-5.4.4  Random Forest
-5.4.4.1  Hyperparameter Tuning
-5.4.4.2  Feature Importance
-5.5  Model Comparison
-6  Next Steps
-6.1  Cost Matrix
-6.2  Other Ways to Handle Class Imbalance
+### Next Steps
+* Cost Matrix
+* Other Ways to Handle Class Imbalance
