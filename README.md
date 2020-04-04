@@ -20,8 +20,8 @@ In this analysis, I will investigate the variables that can be used to make busi
 ### Exploratory Data Analysis
 * Response Variable
 * Dependent Variables
-** Numeric Variable
-** Categorical Variables
+  * Numeric Variable
+  * Categorical Variables
 
 3.2.3  Other Types
 4  Feature Selection
